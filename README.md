@@ -1,4 +1,4 @@
-# CBJLinuxProject setup_users.md
+# CBJLinuxProject setup_users.sh
 
 Login into you user account
 
@@ -10,9 +10,9 @@ sudo -i
 
 cd /tmp/
 
-# run setup_user.sh and follow prompts
+# run setup_users.sh and follow prompts
 
-/home/LOCAL_USER_ACCOUNT/CBJLinuxProject/setup_user.sh
+/home/LOCAL_USER_ACCOUNT/CBJLinuxProject/setup_users.sh
 
 # Copy SSH Key from new user directory to /tmp/
 
