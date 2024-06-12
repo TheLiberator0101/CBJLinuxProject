@@ -22,7 +22,7 @@ cp /home/ssh_user_account/.ssh/id_rsa /tmp/
 
 # Del id_rsa from /tmp
 
-del /tmp/id_rsa
+rm /tmp/id_rsa
 
 
 ## AHHHHHHH YEEEEAAAAHHHHHH
