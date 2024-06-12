@@ -12,7 +12,7 @@ cd /tmp/
 
 # run setup_user.sh and follow prompts
 
-./home/LOCAL_USER_ACCOUNT/CBJLinuxProject/setup_user.sh
+/home/LOCAL_USER_ACCOUNT/CBJLinuxProject/setup_user.sh
 
 # Copy SSH Key from new user directory to /tmp/
 
